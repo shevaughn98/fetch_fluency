@@ -27,3 +27,5 @@ For the following questions, use the [JSON Placeholder API](https://jsonplacehol
 9. Write a function, `numOfLongPosts`, that logs the number of posts that are longer than 20 words.
 
 10. Write a function, `getUserFromPost`. This function takes post title as a parameter and logs the user who created that post.
+
+//need to do each function 
